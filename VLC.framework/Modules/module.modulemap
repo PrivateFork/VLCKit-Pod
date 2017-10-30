@@ -1,0 +1,6 @@
+framework module VLC {
+  umbrella header "VLC.h"
+
+  export *
+  module * { export * }
+}
